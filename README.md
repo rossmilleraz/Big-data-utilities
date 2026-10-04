@@ -1,34 +1,7 @@
-\# Project Name
-
+\# Big Data Utilities 
 
 
 \## Overview
 
-Brief description of the project.
-
-
-
-\## Tech Stack
-
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-
-
-\## Project Structure
-
-\- data/raw: Original data
-
-\- data/processed: Cleaned data
-
-\- notebooks: Analysis notebooks
-
-\- src: Python scripts
-
-\- outputs: Charts and tables
+Learning Big Data tools and skills on a data set of London Utilities. 
 
