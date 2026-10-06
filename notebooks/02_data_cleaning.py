@@ -1,5 +1,5 @@
 # This file was created and run in Databricks.
-# It may not run locally because Databricks provides the Spark environment automatically.
+# It may not run locally
 
 # Import the functions I'll need
 from pyspark.sql.functions import col, when, year, month, date_format, hour
